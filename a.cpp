@@ -18,5 +18,8 @@ typedef vector<vpi> vvpi;
 
 int main(){
     cout << "Hello World!";
+    for (size_t i = 0; i < 100; i++) {
+        cout << i << ", " ;
+    }
     return 0;
 }
