@@ -1,6 +1,6 @@
 # TEST PROJECT
 
-This is just a random project for testing capabilities of Atom + Github.  
+This is just a random project for testing capabilities of Atom + GitHub.  
 Don't mind us.
 
 (:
