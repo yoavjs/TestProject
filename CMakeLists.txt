@@ -1,1 +1,1 @@
-ADD_EXECUTABLE( a )
+ADD_EXECUTABLE( TestProject a.cpp )
