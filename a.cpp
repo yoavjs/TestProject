@@ -17,7 +17,7 @@ typedef vector<vpl> vvpl;
 typedef vector<vpi> vvpi;
 
 int main(){
-    cout << "Hello World! I`m Yoav (The creator)2";
+    cout << "Hello World! I`m Yoav (The creator)2\n";
     for (size_t i = 0; i < 1000; i++) {
         cout << i << ", " ;
     }
