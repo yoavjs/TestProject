@@ -21,6 +21,6 @@ int main(){
     cout << "Now Listen - Bros Before Hoes!\n";
     int bros = 1;
     int hoes = 2;
-    cout (bros<hoes?"Trueeeeee":"Falseeeeee");
+    cout << (bros<hoes?"Trueeeeee":"Falseeeeee");
     return 0;
 }
