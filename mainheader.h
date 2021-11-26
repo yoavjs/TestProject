@@ -2,7 +2,7 @@
 
 #ifndef SHELL_VERSION
 
-#define SHELL_VERSION "2.1"
+#define SHELL_VERSION "1.1.1"
 
 #endif
 
