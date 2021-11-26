@@ -22,6 +22,5 @@ int main(){
     int bros = 1;
     int hoes = 2;
     cout << (bros<hoes?"Trueeeeee":"Falseeeeee");
-    cout << "will master able to fetch from this?";
     return 0;
 }
