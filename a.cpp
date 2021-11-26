@@ -23,5 +23,7 @@ int main(){
         cout << i << ", " ;
     }
     cout << "\nEnd";
+    cout << "\nChanges";
+    cout << "\nMore Changes";
     return 0;
 }
