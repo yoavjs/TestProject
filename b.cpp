@@ -18,7 +18,7 @@ typedef vector<vpi> vvpi;
 
 int main(){
     cout << "This was written directly through GitHub UI\n";
-    cout << "Now Listen - Bros Before Hoes!\n"
+    cout << "Now Listen - Bros Before Hoes!\n";
     int bros = 1;
     int hoes = 2;
     cout (bros<hoes?"Trueeeeee":"Falseeeeee");
