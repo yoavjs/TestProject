@@ -17,6 +17,6 @@ typedef vector<vpl> vvpl;
 typedef vector<vpi> vvpi;
 
 int main(){
-
+    cout << "This was written directly through GitHub UI";
     return 0;
 }
