@@ -1,5 +1,17 @@
 #include <bits/stdc++.h>
 
+#ifndef SHELL_VERSION
+
+#define SHELL_VERSION "1.1.1"
+
+#endif
+
+#ifndef  SHELL_NAME
+
+#define SHELL_NAME "wunpaa"
+
+#endif
+
 using namespace std;
 
 typedef long long int ll;
@@ -15,15 +27,4 @@ typedef vector<vl> vvl;
 typedef vector<vi> vvi;
 typedef vector<vpl> vvpl;
 typedef vector<vpi> vvpi;
-
-int main(){
-    cout << "Hello World! I`m Yoav (The creator)2\n";
-    cout << "Hey, gefen is here too!\n";
-    for (size_t i = 0; i < 1000; i++) {
-        cout << i << ", " ;
-    }
-    cout << "\nEnd";
-    cout << "\nChanges";
-    cout << "\nMore Changes2";
-    return 0;
-}
+typedef map<string, void (*)(string)> handle_cmds_map;
